@@ -17,7 +17,7 @@ spring:
 
 
 cards:
-  message: "Welcome to SquirtleBank cards related SIT APIs "
+  message: "Welcome to SquirtleBank cards related SIT(Testing) APIs "
   contactDetails:
     name: "Puspak Sengupta - Developer"
     email: "psengupta@squirtlebank.com"
