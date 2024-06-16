@@ -20,7 +20,7 @@ accounts:
   message: "Welcome to SquirtleBank accounts related PROD APIs "
   contactDetails:
     name: "Rehan Sengupta - Developer"
-    email: "rehanpsyclone34@squirtlebank.com"
+    email: "{cipher}9031a6053ef2213abfb111ddc40bf82b59b0972458839a2ab14eb69bc4d8c813c24b0052d54412835e3cc4e028ab2a057463efddef6d2d129f7ee2c8ed13026c"
   onCallSupport:
     - (333) 333-1234
     - (333) 323-1345
