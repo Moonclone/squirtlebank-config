@@ -17,7 +17,7 @@ spring:
 
 
 cards:
-  message: "Welcome to SquirtleBank cards related PRODUCTION APIs "
+  message: "Welcome to SquirtleBank cards related webhook APIs "
   contactDetails:
     name: "Moumita Sengupta - Developer"
     email: "msengupta@squirtlebank.com"
