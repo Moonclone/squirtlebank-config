@@ -17,7 +17,7 @@ spring:
 
 
 loans:
-  message: "Welcome to SquirtleBank cards related SIT(Testing) APIs "
+  message: "Welcome to SquirtleBank cards related webhook APIs "
   contactDetails:
     name: "Puspak Sengupta - Developer"
     email: "psengupta@squirtlebank.com"
