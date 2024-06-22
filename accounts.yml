@@ -16,7 +16,7 @@ spring:
     show-sql: true
 
 accounts:
-  message: "Welcome to SquirtleBank accounts related local2 APIs "
+  message: "Welcome to SquirtleBank accounts related local3 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@squirtlebank.com"
