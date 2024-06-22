@@ -17,7 +17,7 @@ spring:
 
 
 cards:
-  message: "Welcome to SquirtleBank cards related local APIs "
+  message: "Welcome to SquirtleBank cards related local2 APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@squirtlebank.com"
